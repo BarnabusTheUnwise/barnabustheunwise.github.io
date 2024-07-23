@@ -1,0 +1,39 @@
+
+body {background-image: url(brick.png);
+  background-size: 75px;
+  width: 100px;
+  height: 100px;
+  background-repeat: repeat;
+  }
+.h1{background-color: #D6CADD; margin-top: 200px;
+  margin-bottom: 200px;
+  margin-right: 200px;
+  margin-left: 200px;}
+  
+.button {
+    top:50%;
+    background-color:#D6CADD;
+	border:groove 5px brown;
+}
+
+}
+.button:hover{
+   cursor: url('glove1.png'), auto;;
+}
+
+textarea {
+	background-color: #D6CADD; 
+	border:groove 5px brown;
+	font-size: 14pt;
+}
+* {
+   cursor: url('glove1.png'), auto;
+}
+*:active{
+   cursor: url('glove2.png'), auto;;
+}
+img.animated-gif{
+  width: 120px;
+  height: auto;
+}
+}
